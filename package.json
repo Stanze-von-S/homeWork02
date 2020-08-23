@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/Stanze-von-S/homeWork02/issues"
   },
-  "homepage": "https://github.com/Stanze-von-S/homeWork02#readme"
+  "homepage": "https://github.com/Stanze-von-S/homeWork02#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
